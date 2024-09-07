@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301896394334",
+    "project_id": "screensaver-db128",
+    "storage_bucket": "screensaver-db128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301896394334:android:4c8a07ea39566859bc76cf",
+        "android_client_info": {
+          "package_name": "com.screensaver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCitkYSTutotPeay9FVSu39rw7sYQOEqA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301896394334:android:e9dc18216b1d64a7bc76cf",
+        "android_client_info": {
+          "package_name": "com.screensaver01"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCitkYSTutotPeay9FVSu39rw7sYQOEqA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
